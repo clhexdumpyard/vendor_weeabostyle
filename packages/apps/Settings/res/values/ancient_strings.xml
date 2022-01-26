@@ -17,7 +17,6 @@
     <string name="ancient_build_type">古代のビルド `Kodai no birudo</string>
     <string name="about_device_name">端末 `Tanmatsu</string>
     <string name="maintainer">メンテナ `Mentena</string>
-    <string name="maintainer_name">weebs `ppl</string>
     <string name="selinux_status">ステータス `SELinux</string>
     <string name="selinux_status_disabled">無効 `Disable</string>
     <string name="selinux_status_permissive">寛容 `Permissive</string>
